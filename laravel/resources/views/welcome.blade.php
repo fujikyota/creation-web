@@ -91,6 +91,7 @@
                     <a href="/message">message</a>
                     <a href="/mission">mission</a>
                     <a href="/recruit">recruit</a>
+                    <a href="/common">common</a>
                 </div>
             </div>
         </div>

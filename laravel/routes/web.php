@@ -15,20 +15,23 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/index', function () {
-    return view('index');
+    return view('HP.index');
 });
 Route::get('/recruit', function () {
-    return view('recruit');
+    return view('HP.recruit');
 });
 Route::get('/entry', function () {
-    return view('entry');
+    return view('HP.entry');
 });
 Route::get('/message', function () {
-    return view('message');
+    return view('HP.message');
 });
 Route::get('/mission', function () {
-    return view('mission');
+    return view('HP.mission');
 });
 Route::get('/work', function () {
-    return view('work');
+    return view('HP.work');
+});
+Route::get('/common', function () {
+    return view('layout.common');
 });

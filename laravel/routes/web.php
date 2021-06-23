@@ -26,8 +26,8 @@ Route::get('/entry', function () {
 Route::get('/message', function () {
     return view('HP.message');
 });
-Route::get('/mission', function () {
-    return view('HP.mission');
+Route::get('/human', function () {
+    return view('HP.human');
 });
 Route::get('/work', function () {
     return view('HP.work');

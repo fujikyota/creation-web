@@ -1,0 +1,9 @@
+@extends('layout.common')
+@include('layout.header')
+<section>
+    <h1>ミッション</h1>
+    <h1>事業内容</h1>
+    <h1>福利厚生</h1>
+    <h1>数字で見るクリエイション</h1>
+</section>
+@include('layout.footer')

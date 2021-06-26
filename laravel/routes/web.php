@@ -21,7 +21,8 @@ Route::get('/recruit', function () {
     return view('HP.recruit');
 });
 Route::get('/entry', function () {
-    return view('HP.entry');
+    $message = '';
+    return view('HP.entry', compact('message'));
 });
 Route::get('/message', function () {
     return view('HP.message');

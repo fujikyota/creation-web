@@ -9,6 +9,8 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
         <link href="/css/app.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@500;600;700&amp;family=Open+Sans:wght@600&amp;display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&amp;display=swap" rel="stylesheet">
     </head>
     <body>
     @yield('header')

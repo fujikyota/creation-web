@@ -1,6 +1,28 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: YakuHanJP_Noto, 'Noto Sans JP', sans-serif;
+}
+ul {
+  margin: 0;
+}
+.space-100 {
+  height: 100px;
+  width: 100px;
+}
+.more {
+  width: 150px;
+  height: 50px;
+  display: inline-block;
+  line-height: 50px;
+  align-items: center;
+  font-size: 18px;
+  background-color: #fff;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(to right, #79c5dc, #cecfb6);
 }
 .header {
   align-items: center;
@@ -9,13 +31,14 @@ body {
   position: fixed;
   width: 100%;
   z-index: 100;
+  background-color: #fff;
 }
 .header__space {
   height: 80px;
   width: 100%;
 }
 .header nav {
-  width: 50%;
+  width: 60%;
 }
 .header__logo {
   display: block;
@@ -30,11 +53,11 @@ body {
 .header__gnav {
   align-items: center;
   display: flex;
-  height: 80px;
+  height: 100px;
   justify-content: space-between;
   list-style: none;
 }
-@media screen and (max-width: 605px) {
+@media screen and (max-width: 767px) {
   .header__gnav {
     display: none;
   }
@@ -47,7 +70,7 @@ body {
   transition: 0.3s;
 }
 .header__gnav a:hover {
-  color: #8ed6ec;
+  color: #6dc6e1;
   text-decoration: none;
 }
 .header__gnav-btn {
@@ -55,12 +78,12 @@ body {
   background-color: #292929;
   display: flex;
   height: 100%;
-  max-width: 360px;
+  max-width: 200px;
   transition: 0.3s;
   width: 35%;
 }
 .header__gnav-btn:hover {
-  opacity: 0.8;
+  background-color: #6dc6e1;
   transition: 0.3s;
 }
 .header__gnav-btn a {
@@ -71,6 +94,8 @@ body {
   justify-content: center;
   text-align: center;
   width: 100%;
+  font-weight: bold;
+  font-size: 24px;
 }
 .header__gnav-btn a:hover {
   color: #fff;
@@ -153,4 +178,100 @@ body {
 }
 .entry__button:visited {
   text-decoration: none;
+}
+.hero {
+  background: url(../img/hero.jpeg) no-repeat;
+  background-size: cover;
+  background-blend-mode: lighten;
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 75%;
+  margin-left: auto;
+  height: 650px;
+  object-fit: cover;
+}
+.hero__ttl {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
+.hero__ttl-text span {
+  font-size: 65px;
+  margin-left: 20px;
+  color: #2e2e2e;
+  font-weight: normal;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
+}
+.hero__ttl p, span {
+  font-size: 26px;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
+}
+.work__ttl {
+  background: url(../img/mission.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-blend-mode: lighten;
+  background-color: rgba(255, 255, 255, 0.4);
+  height: 200px;
+}
+.mission__ttl {
+  text-align: center;
+  width: 100%;
+  font-size: 26px;
+  color: #414141;
+  font-weight: 500;
+  display: inline-block;
+  margin: 0;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
+}
+.mission__item {
+  width: 100%;
+  margin: auto;
+  display: flex;
+}
+.mission__imgBox {
+  width: 50%;
+  height: 500px;
+  text-align: center;
+}
+.mission__descBox {
+  width: 50%;
+  padding: 30px 0 0 30px;
+}
+.mission__desc {
+  font-size: 30px;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
+}
+.mission__img {
+  width: 400px;
+  height: 480px;
+  object-fit: cover;
+}
+.mission__text {
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+  font-size: 16px;
+  width: 75%;
+  padding: 20px 0;
+  font-weight: 100;
+  line-height: 30px;
+  margin: 0 0 20px 0;
+}
+.index__human {
+  width: 1080px;
+  margin: auto;
+}
+.friend__ttl {
+  background: url(../img/interview.png) no-repeat;
+  background-size: contain;
+  background-blend-mode: lighten;
+  background-color: rgba(255, 255, 255, 0.4);
+  height: 200px;
+}
+.human__ttl {
+  width: 100%;
+  font-size: 26px;
+  color: #414141;
+  font-weight: 500;
+  display: inline-block;
+  margin: 0;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }

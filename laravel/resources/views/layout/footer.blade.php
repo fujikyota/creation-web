@@ -6,11 +6,10 @@
         </a>
     </div>
     <div class="footer__links">
-        <a href="/work" class="nav__item">仕事を知る</a>
+        <a href="/work" class="nav__item">会社を知る</a>
         <a href="/human" class="nav__item">仲間を知る</a>
         <a href="/message" class="nav__item">採用担当者からあなたへ</a>
         <a href="/recruit" class="nav__item">採用情報</a>
-        <a href="/entry" class="nav__item">エントリーはこちら</a>
     </div>
     <div class="footer__bottom">
         <a href="https://creation2016.co.jp/" class="footer__link">

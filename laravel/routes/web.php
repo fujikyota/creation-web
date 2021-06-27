@@ -15,7 +15,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/index', function () {
-    return view('HP.index');
+    $message = '';
+    return view('HP.index', compact('message'));
 });
 Route::get('/recruit', function () {
     return view('HP.recruit');

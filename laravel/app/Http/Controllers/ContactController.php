@@ -53,7 +53,8 @@ class ContactController extends Controller {
             ];
             Mail::send(new EntryMail($entry_data));
             Mail::send(new ConfirmationMail($entry_data));
-            return ;
+            $message = "ご応募ありがとうございました。メールを送信致しましたのでご確認よろしくお願いいたします。";
+            return response()->view('HP/index', compact('message'));
         } catch (\Exception $e) {
             $message = "無効なメールアドレスです";
             return response()->view('HP/entry', compact('message'));

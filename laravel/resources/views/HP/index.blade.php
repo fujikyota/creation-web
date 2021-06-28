@@ -2,6 +2,13 @@
 @include('layout.header')
 <div class="hero">
     <div class="hero__ttl">
+    @if ($message)
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+    <script type="text/javascript">
+    const message = '{{$message}}';
+    swal(message);
+</script>
+@endif
         <h2 class="hero__ttl-text"><object type="image/svg+xml" data="https://creation2016.co.jp/wp-content/themes/creation/assets/svg/top/text-hero-value.svg" width="200" height="80"></object> <span>for things,</span><br /><object type="image/svg+xml" data="https://creation2016.co.jp/wp-content/themes/creation/assets/svg/top/text-hero-value.svg" width="200" height="80"></object> <span>for the time.</span></h2>
         <p class="hero__middle">モノに価値を、<span>時代に価値を。</span></p>
         <p class="hero__small">Creation.co.Ltd RECRUITMEN</p>

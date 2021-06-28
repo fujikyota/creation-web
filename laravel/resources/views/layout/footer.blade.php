@@ -1,10 +1,5 @@
 @section('footer')
 <footer class="footer">
-    <div class="footer__top">
-        <a href="/entry" class="entry__button">
-            <div class="footer__entry">ENTRY</div>
-        </a>
-    </div>
     <div class="footer__links">
         <a href="/work" class="nav__item">会社を知る</a>
         <a href="/human" class="nav__item">仲間を知る</a>

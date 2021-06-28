@@ -62,21 +62,39 @@
 </section>
 <div class="space-100"></div>
 <section class="index__message">
-    <div class="work__ttl"></div>
-    <h2 class="mission__ttl">私たちの使命</h2>
     <div class="space-100"></div>
-    <div class="mission__item">
-        <div class="mission__imgBox">
-            <img src="/img/tower.jpg" alt="img2" class="mission__img">
+    <div class="message__item">
+        <div class="message__left">
+            <div class="message__ttlimg"></div>
+            <h2 class="message__ttl">採用担当より</h2>
+            <div class="message__descBox">
+                <p class="mission__text">求める人材<br>クリエイションはどんなことをしているか<br>などの文章をここに入れます。</p>
+                <div class="message__more">
+                    <a href="/work" class="message__more">
+                    <div class="more">詳しく見る</div>
+                    </a>
+                </div>
+            </div>
         </div>
-        <div class="mission__descBox">
-            <p class="mission__desc ">どんな事にも”貪欲”に<br>そして”謙虚”であれ</p>
-            <p class="mission__text">「企画提案力」「リピート率」「ブランディング」「デザイン力」「運用率」全てが弊社の武器でもありそれらが評価される部分だと理解し考える事を止めず、行動と結果を見せていきます。</p>
-            <a href="/work">
-            <div class="more">会社を知る</div>
-            </a>
+        <div class="message__imgBox">
+            <img src="/img/forest.jpg" alt="img2" class="message__img">
         </div>
     </div>
 </section>
-<section class="index__recruit"></section>
+<div class="space-100"></div>
+<section class="index__recruit">
+    <div class="recruit__ttlimg"></div>
+    <h2 class="mission__ttl">採用情報
+    </h2>
+    <div class="space-100"></div>
+    <div class="recruit__wrap">
+                <a href="/recruit" class="recruit__left">
+                    <div class="recruit__link">新卒募集要項</div>
+                </a>
+                <a href="/recruit" class="recruit__right">
+                    <div class="recruit__link">中途募集要項</div>
+                </a>
+    </div>
+</section>
+<div class="space-100"></div>
 @include('layout.footer')

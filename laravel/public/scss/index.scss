@@ -7,6 +7,7 @@
     margin-left: auto;
     height: 650px;
     object-fit: cover;
+    font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 .hero__ttl{
     position: absolute;
@@ -18,12 +19,15 @@
     margin-left: 20px;
     color: #2e2e2e;
     font-weight: normal;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
-.hero__ttl p,span{
+.hero__middle,span{
     font-size: 26px;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
+.hero__small{
+    font-size: 16px;
+    color: #6a6a6a;
+}
+// worksection
 .work__ttl{
     background: url(../img/mission.png) no-repeat;
     background-size: contain;
@@ -75,18 +79,20 @@
     margin: 0 0 20px 0;
 }
 .index__human{
-    width: 1080px;
+    width: 100%;
     margin: auto;
 }
+// humansection
 .friend__ttl{
     background: url(../img/interview.png) no-repeat;
     background-size: contain;
-
+    background-position: center;
     background-blend-mode:lighten;
     background-color:rgba(255,255,255,0.4);
     height: 200px;
 }
 .human__ttl{
+    text-align: center;
     width: 100%;
     font-size: 26px;
     color: #414141;
@@ -95,3 +101,73 @@
     margin: 0;
     font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
+.human__descBox{
+ text-align: center;
+}
+.human__item{
+    width: 100%;
+    margin: auto;
+    display: flex;
+}
+.human__imgBox{
+    width: 50%;
+    height: 500px;
+    text-align: center;
+}
+.human__descBox{
+    width: 50%;
+    margin: auto;
+}
+.human__desc{
+    font-size: 30px;
+    font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
+}
+.human__text{
+    font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+    font-size: 16px;
+    padding: 20px 0;
+    font-weight: 100;
+    line-height: 30px;
+    margin: 0 0 20px 0;
+}
+.human__box{
+    width: 100%;
+}
+.human__box ul{
+    display: flex;
+    padding: 0;
+}
+.human__item{
+    width: 25%;
+    height: 400px;
+    display: block;
+    text-align: center;
+}
+.human__item:hover{
+
+}
+.human__icon{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    list-style: none;
+}
+.human__link{
+    width: 25%;
+    height: 400px;
+    list-style: none;
+    text-decoration: none;
+}
+.next__img{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    top: 40%;
+    left: 20%;
+}
+.human__link li{
+    width: 100%;
+    height: 400px;
+
+}
+

@@ -45,12 +45,21 @@
         <ul class="human__list">
             <li class="human__item">
                 <img src="/img/icon.jpeg" alt="icon1" class="human__icon">
+                <div class="mask">
+                    <div class="caption">山田太郎</div>
+                </div>
             </li>
             <li class="human__item">
                 <img src="/img/icon.jpeg" alt="icon2" class="human__icon">
+                <div class="mask">
+                    <div class="caption">山田太郎</div>
+                </div>
             </li>
             <li class="human__item">
                 <img src="/img/icon.jpeg" alt="icon3" class="human__icon">
+                <div class="mask">
+                    <div class="caption">山田太郎</div>
+                </div>
             </li>
             <a href="/human" class="human__link">
             <li>

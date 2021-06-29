@@ -18,24 +18,24 @@
 			</div>
 			<div class="space-100"></div>
 			<div class="guideline">
-				<h2 class="r-title">新卒採用情報</h2>
+				<h2 class="r-title">中途採用情報</h2>
 				<div class="state">
-					<p class="read wanted">2022年卒　Webプログラマー職を募集します</p>
+					<p class="read wanted">webシステム・プログラマー経験者をを募集します!</p>
 				</div>
 				<table class="entry-format">
 					<tbody>
 						<tr>
 							<th>ポジション</th>
-							<td>大　　卒 ： 1<br>短・専卒 ： １<br>
+							<td><br>
 							</td>
 						</tr>
 						<tr>
 							<th>仕事内容</th>
-							<td>全学部全学科</td>
+							<td></td>
 						</tr>
 						<tr>
 							<th>求める人物像</th>
-							<td>WEBプログラマー職</td>
+							<td></td>
 						</tr>
 						<tr>
 							<th>勤務地</th>
@@ -43,12 +43,60 @@
 						</tr>
 						<tr>
 							<th>選考スケジュール</th>
-							<td>履歴書<br>
+							<td><br>
 						</tr>
+					</tbody>
+				</table>
+                <h3>待遇</h3>
+                <table class="entry-format">
+					<tbody>
 						<tr>
-							<th>入社後のイメージ</th>
-							<td>書類選考、面接</td>
-						</tr>
+						<th>給与</th>
+						<td>月収20万～38万円</td>
+					    </tr>
+						<tr>
+						<th>諸手当</th>
+						<td>通勤交通費（25,000円まで）</td>
+					    </tr>
+						<tr>
+						<th>賞与</th>
+						<td>年2回</td>
+                        </tr>
+                        <tr>
+                        <th>昇給</th>
+                        <td>スキルにより昇給<br>
+                        </td>
+                        </tr>
+                        <tr>
+                        <th>勤務時間</th>
+                        <td>9：00～18：00（休憩60分）</td>
+                        </tr>
+                        <tr>
+                            <th>休日休暇</th>
+                            <td>完全週休2日制、祝祭日　年間約120日</td>
+                        </tr>
+                            <tr>
+                            <th>勤務地</th>
+                            <td><br>派遣や転勤はありません</td>
+                        </tr>
+                        <tr>
+                            <th>福利厚生</th>
+                            <td>社会保険、労働保険</td>
+                        </tr>
+                        <tr>
+                            <th>備考</th>
+                            <td></td>
+                        </tr>
+					</tbody>
+				</table>
+                <h3>入社後のイメージ</h3>
+                <table class="entry-format">
+					<tbody>
+						<tr>
+						<th>内容</th>
+						<td></td>
+					    </tr>
+						<tr>
 					</tbody>
 				</table>
 			</div>

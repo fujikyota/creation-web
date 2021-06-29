@@ -97,10 +97,10 @@
     </h2>
     <div class="space-100"></div>
     <div class="recruit__wrap">
-                <a href="/recruit" class="recruit__left">
+                <a href="/recruitNewgraduates" class="recruit__left">
                     <div class="recruit__link">新卒募集要項</div>
                 </a>
-                <a href="/recruit" class="recruit__right">
+                <a href="/recruitMidcareer" class="recruit__right">
                     <div class="recruit__link">中途募集要項</div>
                 </a>
     </div>

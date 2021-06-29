@@ -18,8 +18,11 @@ Route::get('/index', function () {
     $message = '';
     return view('HP.index', compact('message'));
 });
-Route::get('/recruit', function () {
-    return view('HP.recruit');
+Route::get('/recruitMidcareer', function () {
+    return view('HP.recruitMidcareer');
+});
+Route::get('/recruitNewgraduates', function () {
+    return view('HP.recruitNewgraduates');
 });
 Route::get('/entry', function () {
     $message = '';

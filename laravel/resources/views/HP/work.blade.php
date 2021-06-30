@@ -11,62 +11,77 @@
 </section>
   <div class="l-page__inner">
     <div class="backgr">
-      <div class="c-lower-eyecatch">
-        <div class="c-lower-eyecatch__image is-animate is-animate-fix">
-        </div>
-        <h1 class="c-lower-eyecatch__title">
-          <div class="c-lower-eyecatch__title-wrap">
-            <div class="c-lower-eyecatch__title-en is-animate is-animate-fix"><span class="js-typo-wrap"><span class="js-typo js-typo--1">A</span><span class="js-typo js-typo--2">b</span><span class="js-typo js-typo--3">o</span><span class="js-typo js-typo--4">u</span><span class="js-typo js-typo--5">t</span></div>
-            <div class="c-lower-eyecatch__title-ja is-animate is-animate-fix">Creationについて</div>
-          </div>
-          <div class="c-lower-eyecatch__title-bg is-animate is-animate-fix"></div>
-        </h1>
-      </div>
       <div class="c-section-expand">
         <div class="c-section-expand__body is-animate is-animate-fix">
-          <h2 class="c-section-expand__title">事業内容<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"><br>
-          <p class="c-section-expand__text">わたしたちの事業はっっっっっっっっっっっっっっっっっっっっっっっっっっっっっs。</p>
-          <p class="c-section-expand__text">dddddddddddd</p>
-          <p class="c-section-expand__text">ccccc</p>
-          <p class="c-section-expand__text">vvvvvvvvv</p>
-          <p class="c-section-expand__text">ddddddddd</p>
-          <p class="c-section-expand__text">cccccc</p>
-          <p class="c-section-expand__text">
-          </p>
+          <h2 class="c-section-expand__title"></h2>
+          <p class="c-section-expand__text_title">企業理念<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"><br></P>
+          <p class="c-section-expand__text"></p>
+          <p class="c-section-expand__text">どんな事にも”貪欲”にそして”謙虚”であれ</p>
+          <p class="c-section-expand__text">ホームページ、サイトデザインに100%の正解はありません。</p>
+          <p class="c-section-expand__text">ですが答えをお客様と探す事で信頼と満足度を満たして頂く為に努力を止めないがポリシーです。</p>
+          <p class="c-section-expand__text">弊社リスティング広告、SEO広告、SNS広告で[集客]と言う課題にもデザインにあった広告種別を提案をさせて頂く事でお客様の問題に立ち向かえる準備をしています。</p>
           <p></p>
-        </div>
-        <div class="c-section-expand__bg is-animate is-animate-fix"></div>
-      </div>
-      <div class="c-section-expand js-even">
-        <div class="c-section-expand__body is-animate is-animate-fix">
-          <div class="c-contents-multi-column">
-            <div class="c-contents-multi-column__item">
-              <div class="c-contents-multi-column__item-body">
-                <h3 class="c-contents-multi-column__item-head u-tt-u">Full-Service</h3>
-                <p class="c-contents-multi-column__item-text">aaaaaaaaaaaaaaaaaaaaa</p>
-              </div>
-            </div>
-            <div class="c-contents-multi-column__item">
-              <div class="c-contents-multi-column__item-body">
-                <h3 class="c-contents-multi-column__item-head u-tt-u">Best Quality</h3>
-                <p class="c-contents-multi-column__item-text">Aaaaaaaaaaaaaa</p>
-              </div>
-            </div>
-            <div class="c-contents-multi-column__item">
-              <div class="c-contents-multi-column__item-body">
-                <h3 class="c-contents-multi-column__item-head u-tt-u">Holacracy</h3>
-                <p class="c-contents-multi-column__item-text">aaaaaaaaa</p>
-              </div>
-            </div>
-          </div>
         </div>
         <div class="c-section-expand__bg is-animate is-animate-fix"></div>
       </div>
       <div class="c-section-expand" id="amt-data">
         <div class="c-section-expand__body is-animate is-animate-fix">
-          <h2 class="c-section-expand__title">DATAで見るCreation<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"></h2>
+          <h2 class="c-section-expand__title_1">事業内容<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"></h2>
+          <p class="c-section-expand__text">Creationでは多様な人材が相互に尊重しあい、協力し、依頼者それぞれのニーズに合ったベスト・クオリティーのサービスを提供しています。</p>
+          <div class="c-contents-with-image-s">
+            <div class="c-contents-with-image-s__item">
+              <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+              <div class="c-contents-with-image-s__item-body">
+                <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">website</h3>
+                <h4 class="c-contents-with-image-s__item-sub-head">【webサイト制作】</h4>
+                <p class="c-contents-with-image-s__item-text">
+                ホームページを作られる目的、効果とは何でしょうか？
+「他社との差別化」「売上げを伸ばしたい」「人材募集」など様々な目的、効果があると思います。作成後のアクセス解析、目的や目標の議題設定、サイト構成作り、SEO対策、ソーシャルメディアへの対応、古くなったホームページデザインや機能のリニューアル、課題をベースにホームページの完成からその後を全てサポートいたします。</p>
+              </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+            <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+              <div class="c-contents-with-image-s__item-body">
+                <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">Seo</h3>
+                <h4 class="c-contents-with-image-s__item-sub-head">【SEO対策】</h4>
+                <p class="c-contents-with-image-s__item-text">ホームページなどの集客力を高めるためにSEOは不可欠になります。
+検索エンジンを対象とし、検索結果でより上位に表示されるよう、内部、外部の対策を行います。Webサイトの情報を充実、適切なキーワード選択など細かい分析作業を行う上で柔軟的なご提案プランもご用意しておりますのでご相談下さい。</p>
+              </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+              <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+              <div class="c-contents-with-image-s__item-body">
+                <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">Listing ads</h3>
+                <h4 class="c-contents-with-image-s__item-sub-head">【リスティング広告】</h4>
+                <p class="c-contents-with-image-s__item-text">ホームページを作られる目的、効果とは何でしょうか？
+「他社との差別化」「売上げを伸ばしたい」「人材募集」など様々な目的、効果があると思います。作成後のアクセス解析、目的や目標の議題設定、サイト構成作り、SEO対策、ソーシャルメディアへの対応、古くなったホームページデザインや機能のリニューアル、課題をベースにホームページの完成からその後を全てサポートいたします。</p>
+              </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+              <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+              <div class="c-contents-with-image-s__item-body">
+                <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">Ag agency</h3>
+                <h4 class="c-contents-with-image-s__item-sub-head">【SNS運用広告】</h4>
+                <p class="c-contents-with-image-s__item-text">「Facebook」・「Instagram」・「Twitter」の低コストから出稿できる「運用型広告」です。ターゲットや予算が明確にある状態で、戦略的に実施できれば瞬発的に集客可能で掲載方法も自然と広告を溶け込ませる事が出来るのがSNS広告の特徴です。</p>
+              </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+              <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+              <div class="c-contents-with-image-s__item-body">
+                <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">Sns marketing</h3>
+                <h4 class="c-contents-with-image-s__item-sub-head">【広告代理店】</h4>
+                <p class="c-contents-with-image-s__item-text">企業様、クライアント様に代わって広告・宣伝活動などを専門に行い、時にはビジネスのターゲットによって最適な広告手法は異なります。リスティング広告やDSP、SEO対策、SNS運用、最新のWEB広告は多様な方法があります。
+弊社ではじっくりとヒアリングをした上で、課題解決に最適なプランを柔軟的にご提案致します。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="c-section-expand__bg is-animate is-animate-fix"></div>
+    </div>
+    <div class="c-section-expand" id="amt-data">
+        <div class="c-section-expand__body is-animate is-animate-fix">
+          <h2 class="c-section-expand__title_1">DATAで見るCreation<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"></h2>
           <p class="c-section-expand__text">各職種や年齢などをご紹介します。<br>
-            Creationでは多様な人材が相互に尊重しあい、協力し、依頼者それぞれのニーズに合ったベスト・クオリティーのサービスを提供しています。</p>
           <div class="c-contents-with-image-s">
             <div class="c-contents-with-image-s__item">
               <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
@@ -108,7 +123,69 @@
           </div>
         </div>
         <div class="c-section-expand__bg is-animate is-animate-fix"></div>
-      </div>
+    </div>
+    <div class="c-section-expand" id="amt-data">
+        <div class="c-section-expand__body is-animate is-animate-fix">
+          <h2 class="c-section-expand__title_1">会社概要<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"></h2>
+        <div class="c-contents-with-image-s">
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">会社名 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">株式会社Creation (Creation Co.,Ltd)</h4>
+                </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">会社設立 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">2016年6月</h4>
+                </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">会社設立 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">2016年6月</h4>
+                </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">代表取締役 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">石橋博昭</h4>
+                </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">資本金 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">5,000,000円</h4>
+                </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">所在地 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">〒113-0033 東京都文京区本郷2-22-12本郷ボックスツリービル5F</h4>
+                </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">連絡先 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">03-3830-6727</h4>
+                </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">事業案内 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">■ウェブサイト制作/SEO対策　■リスティング広告/SNS運用広告　■広告代理店</h4>
+                </div>
+            </div>
+            <div class="c-contents-with-image-s__item">
+                <div class="c-contents-with-image-s__item-body">
+                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">取引先 </h3>
+                    <h4 class="c-contents-with-image-s__item-sub-head">㈱ステイフリー / ㈱フォーバル / ㈱Facebook / ㈱hitotema / ㈱バリュークリエーション / ㈱セレス / ㈱NexTrust / ㈱ハートフル / ㈱インフィニックス / ㈱Google / ㈱アイモバイル / ㈱キャナル</h4>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="c-section-expand__bg is-animate is-animate-fix"></div>
+    </div>
 </div>
 </body>
 @include('layout.footer')

@@ -20,7 +20,7 @@
 
 .l-page {
   background: #eaeaea;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 
 .c-lower-eyecatch__title {
@@ -189,12 +189,6 @@ h1 {
 }
 
 .c-section-expand__title {
-  margin-bottom: 4.16667%;
-  font-size: 24px;
-  font-size: 1.5rem;
-}
-
-.c-section-expand__title {
   margin-top: 0;
   line-height: 2;
   letter-spacing: .2em;
@@ -208,18 +202,10 @@ h1 {
 .c-section-expand__title {
   margin-bottom: 4.16667%;
   font-size: 24px;
-  font-size: 1.5rem;
-}
-
-.c-section-expand__title {
-  margin-bottom: 4.16667%;
-  font-size: 24px;
-  font-size: 1.5rem;
 }
 
 .c-section-expand__text:first-of-type {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -231,7 +217,6 @@ h1 {
 
 .c-section-expand__text {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -240,9 +225,18 @@ h1 {
   margin: 2.15385em 17.85714% 0;
 }
 
+.c-section-expand__text_title {
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: .06em;
+  color: #222;
+  font-size: 2rem;
+  line-height: 2.15385;
+  margin: 2.15385em 17.85714% 0;
+}
+
 .c-section-expand__bg.is-animate-fix {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -265,7 +259,6 @@ h1 {
 
 .c-section-expand {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -277,7 +270,6 @@ h1 {
 
 .c-section-expand__body.is-animate-fix {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -293,7 +285,6 @@ h1 {
 
 .c-contents-multi-column {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -313,7 +304,6 @@ h1 {
 
 .c-contents-multi-column__item {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -324,7 +314,6 @@ h1 {
 
 .c-contents-multi-column__item-body {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -334,7 +323,6 @@ h1 {
 
 .c-contents-multi-column__item-head {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #222;
   font-weight: 400;
@@ -347,7 +335,6 @@ h1 {
 
 .c-contents-multi-column__item-text {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   font-size: .8125rem;
@@ -358,7 +345,6 @@ h1 {
 
 .c-section-expand__bg.is-animate-fix {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -381,7 +367,6 @@ h1 {
 
 .c-section-expand {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -393,7 +378,6 @@ h1 {
 
 .c-section-expand__body.is-animate-fix {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -409,21 +393,19 @@ h1 {
 
 .c-section-expand__title {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #222;
   font-weight: 400;
   margin-top: 0;
   line-height: 2;
   letter-spacing: .2em;
-  text-align: center;
+  text-align: left;
   margin-bottom: 4.16667%;
   font-size: 1.5rem;
 }
 
 .c-contents-with-image-s {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -441,7 +423,6 @@ h1 {
 
 .c-contents-with-image-s__item {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -452,7 +433,6 @@ h1 {
 
 .c-contents-with-image-s__item-image {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -463,7 +443,6 @@ h1 {
 
 .c-contents-with-image-s__item-head--key {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   margin-top: 0;
@@ -476,7 +455,6 @@ h1 {
 
 .c-contents-with-image-s__item-sub-head {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -487,7 +465,6 @@ h1 {
 
 .c-contents-with-image-s__item-text {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   font-size: .8125rem;
@@ -498,7 +475,6 @@ h1 {
 
 .c-contents-with-image-s__item-image img {
   -webkit-text-size-adjust: 100%;
-  font-family: "Noto Sans Japanese","游ゴシック体","Yu Gothic",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .06em;
   color: #222;
@@ -506,5 +482,18 @@ h1 {
   border: 0;
   width: 100%;
   display: block;
+}
+
+.c-section-expand__title_1 {
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  color: #222;
+  font-weight: 400;
+  margin-top: 0;
+  line-height: 2;
+  letter-spacing: .2em;
+  text-align: center;
+  margin-bottom: 4.16667%;
+  font-size: 1.5rem;
 }
 /*# sourceMappingURL=work.css.map */

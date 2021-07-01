@@ -1,6 +1,6 @@
 <header>
     <div class="header">
-      <a href="/"><img class="header__logo" src="/img/logo.png" alt="Creation Co,Ltd"></a></h1>
+      <a href="/index"><img class="header__logo" src="/img/logo.png" alt="Creation Co,Ltd"></a></h1>
       <nav>
         <ul class="header__gnav">
           <li><a href="/work">会社を知る</a></li>

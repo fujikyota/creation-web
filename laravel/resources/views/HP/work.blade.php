@@ -1,7 +1,7 @@
 @extends('layout.common')
-  <header>
-  @include('layout.header')
-  </header>
+@include('layout.common')
+@include('layout.header')
+
 <body>
 <div class="l-page">
 <section class="index__work">

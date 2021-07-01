@@ -1,4 +1,5 @@
 @extends('layout.common')
+@include('layout.common')
 @include('layout.header')
 <section class="index__work">
 	<div class="recruit__ttl"></div>

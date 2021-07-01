@@ -1,4 +1,5 @@
 @extends('layout.common')
+@include('layout.common')
 @include('layout.header')
 <h1>名前</h1>
 <p>入社当時と現在の業務の違い</p>

@@ -1,4 +1,5 @@
 @extends('layout.common')
+@include('layout.common')
 @include('layout.header')
 <!DOCTYPE html>
 <html lang="ja" charset="UTF-8">

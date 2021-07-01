@@ -1,4 +1,5 @@
 @extends('layout.common')
+@include('layout.common')
 @include('layout.header')
 <div class="hero">
     <div class="hero__ttl">
@@ -21,7 +22,7 @@
     <div class="space-100"></div>
     <div class="mission__item">
         <div class="mission__imgBox">
-            <img src="/img/tower.jpg" alt="img2" class="mission__img">
+            <img src="img/tower.jpg" alt="img2" class="mission__img">
         </div>
         <div class="mission__descBox">
             <p class="mission__desc ">どんな事にも”貪欲”に<br>そして”謙虚”であれ</p>
@@ -79,7 +80,7 @@
             <div class="message__descBox">
                 <p class="mission__text">求める人材<br>クリエイションはどんなことをしているか<br>などの文章をここに入れます。</p>
                 <div class="message__more">
-                    <a href="/work" class="message__more">
+                    <a href="/message" class="message__more">
                     <div class="more">詳しく見る</div>
                     </a>
                 </div>

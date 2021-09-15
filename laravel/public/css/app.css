@@ -1116,11 +1116,6 @@ h1 {
   width: 100%;
   display: block;
 }
-<<<<<<< HEAD
-.message__wrap {
-  width: 75%;
-  margin: auto;
-=======
 .c-section-expand__title_1 {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -1132,5 +1127,8 @@ h1 {
   text-align: center;
   margin-bottom: 4.16667%;
   font-size: 1.5rem;
->>>>>>> 9a49a68e3c6c70c2d6e40c38d77d43d6174d2b6c
+}
+.message__wrap {
+  width: 75%;
+  margin: auto;
 }

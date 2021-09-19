@@ -10,16 +10,16 @@
 	<div id="contents">
 		<div class="anim section-in animated fadeIn" data-label="fadeIn">
 			<div class="recruit__wrap">
-				<a href="/recruitNewgraduates" class="recruit__left">
-					<div class="recruit__link">新卒募集要項</div>
-				</a>
-				<a href="/recruitMidcareer" class="recruit__right">
+                <a href="/recruitMidcareer" class="recruit__right">
 					<div class="recruit__link">中途募集要項</div>
+				</a>
+				<a href="/recruitNewgraduates" class="recruit__left">
+					<div class="recruit__link">アルバイト募集要項</div>
 				</a>
 			</div>
 			<div class="space-100"></div>
 			<div class="guideline">
-				<h2 class="r-title">新卒採用情報</h2>
+				<h2 class="r-title">アルバイト情報</h2>
 				<div class="state">
 					<p class="read wanted">2022年卒　Webプログラマー職を募集します</p>
 				</div>

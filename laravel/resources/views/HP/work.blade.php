@@ -39,7 +39,7 @@
 「他社との差別化」「売上げを伸ばしたい」「人材募集」など様々な目的、効果があると思います。作成後のアクセス解析、目的や目標の議題設定、サイト構成作り、SEO対策、ソーシャルメディアへの対応、古くなったホームページデザインや機能のリニューアル、課題をベースにホームページの完成からその後を全てサポートいたします。</p>
               </div>
             </div>
-            <div class="c-contents-with-image-s__item">
+            <!-- <div class="c-contents-with-image-s__item">
             <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">Seo</h3>
@@ -47,8 +47,8 @@
                 <p class="c-contents-with-image-s__item-text">ホームページなどの集客力を高めるためにSEOは不可欠になります。
 検索エンジンを対象とし、検索結果でより上位に表示されるよう、内部、外部の対策を行います。Webサイトの情報を充実、適切なキーワード選択など細かい分析作業を行う上で柔軟的なご提案プランもご用意しておりますのでご相談下さい。</p>
               </div>
-            </div>
-            <div class="c-contents-with-image-s__item">
+            </div> -->
+            <!-- <div class="c-contents-with-image-s__item">
               <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">Listing ads</h3>
@@ -56,15 +56,15 @@
                 <p class="c-contents-with-image-s__item-text">ホームページを作られる目的、効果とは何でしょうか？
 「他社との差別化」「売上げを伸ばしたい」「人材募集」など様々な目的、効果があると思います。作成後のアクセス解析、目的や目標の議題設定、サイト構成作り、SEO対策、ソーシャルメディアへの対応、古くなったホームページデザインや機能のリニューアル、課題をベースにホームページの完成からその後を全てサポートいたします。</p>
               </div>
-            </div>
-            <div class="c-contents-with-image-s__item">
+            </div> -->
+            <!-- <div class="c-contents-with-image-s__item">
               <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">Ag agency</h3>
                 <h4 class="c-contents-with-image-s__item-sub-head">【SNS運用広告】</h4>
                 <p class="c-contents-with-image-s__item-text">「Facebook」・「Instagram」・「Twitter」の低コストから出稿できる「運用型広告」です。ターゲットや予算が明確にある状態で、戦略的に実施できれば瞬発的に集客可能で掲載方法も自然と広告を溶け込ませる事が出来るのがSNS広告の特徴です。</p>
               </div>
-            </div>
+            </div> -->
             <div class="c-contents-with-image-s__item">
               <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
               <div class="c-contents-with-image-s__item-body">
@@ -99,7 +99,7 @@
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">平均年齢</h3>
                 <h4 class="c-contents-with-image-s__item-sub-head">【スタッフの平均年齢】</h4>
-                <p class="c-contents-with-image-s__item-text">35歳1ヶ月(平均勤続年数：8年0ヶ月)</p>
+                <p class="c-contents-with-image-s__item-text">38歳</p>
               </div>
             </div>
             <div class="c-contents-with-image-s__item">
@@ -114,9 +114,9 @@
               <div class="c-contents-with-image-s__item-image"></div>
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key"> 平均年収</h3>
-                <p class="c-contents-with-image-s__item-text">20〜25：350<br>
-                  25〜30：400<br>
-                  30〜40：800<br>
+                <p class="c-contents-with-image-s__item-text">20〜25：350万円<br>
+                  25〜30：40万円<br>
+                  30〜40：800万円<br>
                   </p>
               </div>
             </div>

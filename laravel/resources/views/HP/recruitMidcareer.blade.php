@@ -10,11 +10,11 @@
 	<div id="contents">
 		<div class="anim section-in animated fadeIn" data-label="fadeIn">
 			<div class="recruit__wrap">
-				<a href="/recruitNewgraduates" class="recruit__left">
-					<div class="recruit__link">新卒募集要項</div>
-				</a>
 				<a href="/recruitMidcareer" class="recruit__right">
 					<div class="recruit__link">中途募集要項</div>
+				</a>
+                <a href="/recruitNewgraduates" class="recruit__left">
+					<div class="recruit__link">アルバイト募集要項</div>
 				</a>
 			</div>
 			<div class="space-100"></div>
@@ -27,12 +27,12 @@
 					<tbody>
 						<tr>
 							<th>ポジション</th>
-							<td><br>
+							<td>メディアの運営<br>
 							</td>
 						</tr>
 						<tr>
 							<th>仕事内容</th>
-							<td></td>
+							<td>競馬メディアの運営、管理 ・webデザイナー ・</td>
 						</tr>
 						<tr>
 							<th>求める人物像</th>
@@ -44,7 +44,7 @@
 						</tr>
 						<tr>
 							<th>選考スケジュール</th>
-							<td><br>
+							<td>一次選考、二次選考（最終選考）<br>
 						</tr>
 					</tbody>
 				</table>
@@ -82,7 +82,7 @@
                         </tr>
                         <tr>
                             <th>福利厚生</th>
-                            <td>社会保険、労働保険</td>
+                            <td>社会保険完備</td>
                         </tr>
                         <tr>
                             <th>備考</th>

@@ -139,7 +139,7 @@
 }
 .human__item{
     width: 25%;
-    height: 400px;
+    height: 300px;
     display: block;
     text-align: center;
     overflow: hidden;
@@ -149,8 +149,8 @@
 
 }
 .human__icon{
-    width: 100%;
-    height: 400px;
+    width: 75%;
+    height: 300px;
     object-fit: cover;
     list-style: none;
     -webkit-transition:	all 0.4s ease;
@@ -248,7 +248,7 @@
     height: 100%;
     object-fit: cover;
 }
-.mission__text{
+.message__text{
     font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
     font-size: 16px;
     font-weight: 100;

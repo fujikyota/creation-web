@@ -40,3 +40,9 @@ Route::get('/work', function () {
 Route::get('/common', function () {
     return view('layout.common');
 });
+Route::get('/hirano', function () {
+    return view('HP.member.hirano');
+});
+Route::get('/saito', function () {
+    return view('HP.member.saito');
+});

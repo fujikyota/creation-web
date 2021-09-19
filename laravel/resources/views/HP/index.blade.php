@@ -45,16 +45,20 @@
     <div class="human__box">
         <ul class="human__list">
             <li class="human__item">
-                <img src="/img/icon.jpeg" alt="icon1" class="human__icon">
-                <div class="mask">
-                    <div class="caption">山田太郎</div>
-                </div>
+                <a href="/saito">
+                    <img src="/img/saito.jpg" alt="icon1" class="human__icon">
+                    <div class="mask">
+                        <div class="caption">齋藤 祐次</div>
+                    </div>
+                </a>
             </li>
             <li class="human__item">
-                <img src="/img/icon.jpeg" alt="icon2" class="human__icon">
-                <div class="mask">
-                    <div class="caption">山田太郎</div>
-                </div>
+                <a href="/hirano">
+                    <img src="/img/hirano.jpg" alt="icon2" class="human__icon">
+                    <div class="mask">
+                        <div class="caption">平野 洋輔</div>
+                    </div>
+                </a>
             </li>
             <li class="human__item">
                 <img src="/img/icon.jpeg" alt="icon3" class="human__icon">
@@ -78,7 +82,7 @@
             <div class="message__ttlimg"></div>
             <h2 class="message__ttl">採用担当より</h2>
             <div class="message__descBox">
-                <p class="mission__text">求める人材<br>クリエイションはどんなことをしているか<br>などの文章をここに入れます。</p>
+                <p class="message__text">求める人材<br>クリエイションはどんなことをしているか<br>などの文章をここに入れます。</p>
                 <div class="message__more">
                     <a href="/message" class="message__more">
                     <div class="more">詳しく見る</div>

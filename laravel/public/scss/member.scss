@@ -1,0 +1,56 @@
+.member__header{
+    height: 450px;
+}
+.member__headerName{
+    background-color: rgb(77, 126, 232);
+    color: #fff;
+    font-weight: bold;
+    display: inline;
+    padding: 7px;
+    margin-left: 7%;
+    border-radius: 5px;
+}
+.h__bg{
+    height: 300px;
+    background: url(../img/h_bg.jpeg) no-repeat;
+    position: relative;
+}
+.member__iconImg{
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    height: 200px;
+    border: 10px #fff solid;
+    position: absolute;
+    top: 68%;
+    left: 13%;
+}
+.member__qa{
+    width: 70%;
+    margin: 0 auto;
+}
+.member__desc{
+    width: 250px;
+    margin-left: 13%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.member__name{
+    font-size: 30px;
+    font-weight: lighter;
+    margin: 10px 0 15px 7%;
+}
+.member__tweet{
+    line-height: 30px;
+}
+.question{
+    font-size: 24px;
+    color: rgb(24, 24, 24);
+    font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+    font-weight: bold;
+}
+.answer{
+    font-size: 20px;
+    color: rgb(24, 24, 24);
+    font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+}

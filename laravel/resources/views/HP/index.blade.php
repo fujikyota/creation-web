@@ -103,7 +103,7 @@
     <div class="space-100"></div>
     <div class="recruit__wrap">
                 <a href="/recruitNewgraduates" class="recruit__left">
-                    <div class="recruit__link">新卒募集要項</div>
+                    <div class="recruit__link">募集要項</div>
                 </a>
                 <a href="/recruitMidcareer" class="recruit__right">
                     <div class="recruit__link">中途募集要項</div>

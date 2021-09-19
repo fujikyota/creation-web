@@ -1,6 +1,11 @@
 <header>
     <div class="header">
+<<<<<<< HEAD
       <a href="/index"><img class="header__logo" src="/img/logo.png" alt="Creation Co,Ltd"></a></h1>
+=======
+    <title>Creation.Recruit.Web</title>
+      <a href="/"><img class="header__logo" src="/img/logo.png" alt="Creation Co,Ltd"></a></h1>
+>>>>>>> aa77a803db21854fee2c18f52fce130c99c80d9d
       <nav>
         <ul class="header__gnav">
           <li><a href="/work">会社を知る</a></li>

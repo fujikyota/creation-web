@@ -1236,4 +1236,19 @@ h1 {
   font-size: 20px;
   color: #181818;
   font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+.c-section-expand__title_1 {
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  color: #222;
+  font-weight: 400;
+  margin-top: 0;
+  line-height: 2;
+  letter-spacing: 0.2em;
+  text-align: center;
+  margin-bottom: 4.16667%;
+  font-size: 1.5rem;
+}
+.message__wrap {
+  width: 75%;
+  margin: auto;
 }

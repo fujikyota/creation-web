@@ -11,7 +11,7 @@
 </section>
   <div class="l-page__inner">
     <div class="backgr">
-      <div class="c-section-expand">
+      <div class="c-section-expand fade-in fade-in-left box">
         <div class="c-section-expand__body is-animate is-animate-fix">
           <h2 class="c-section-expand__title"></h2>
           <p class="c-section-expand__text_title">企業理念<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"><br></P>
@@ -24,7 +24,7 @@
         </div>
         <div class="c-section-expand__bg is-animate is-animate-fix"></div>
       </div>
-      <div class="c-section-expand" id="amt-data">
+      <div class="c-section-expand fade-in fade-in-left box" id="amt-data">
         <div class="c-section-expand__body is-animate is-animate-fix">
           <h2 class="c-section-expand__title_1">事業内容<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"></h2>
           <p class="c-section-expand__text">Creationでは多様な人材が相互に尊重しあい、協力し、依頼者それぞれのニーズに合ったベスト・クオリティーのサービスを提供しています。</p>
@@ -78,7 +78,7 @@
         </div>
         <div class="c-section-expand__bg is-animate is-animate-fix"></div>
     </div>
-    <div class="c-section-expand" id="amt-data">
+    <div class="c-section-expand fade-in fade-in-left box" id="amt-data">
         <div class="c-section-expand__body is-animate is-animate-fix">
           <h2 class="c-section-expand__title_1">DATAで見るCreation<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"></h2>
           <p class="c-section-expand__text">各職種や年齢などをご紹介します。<br>
@@ -124,7 +124,7 @@
         </div>
         <div class="c-section-expand__bg is-animate is-animate-fix"></div>
     </div>
-    <div class="c-section-expand" id="amt-data">
+    <div class="c-section-expand fade-in fade-in-left box" id="amt-data">
         <div class="c-section-expand__body is-animate is-animate-fix">
           <h2 class="c-section-expand__title_1">会社概要<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"></h2>
         <div class="c-contents-with-image-s">
@@ -189,3 +189,17 @@
 </div>
 </body>
 @include('layout.footer')
+<script>
+let fadeInTarget = document.querySelectorAll('.fade-in');
+window.addEventListener('scroll', () => {
+  for (let i = 0; i < fadeInTarget.length; i++){
+    const rect = fadeInTarget[i].getBoundingClientRect().top;
+    const scroll = window.pageYOffset || document.documentElement.scrollTop;
+    const offset = rect + scroll;
+    const windowHeight = window.innerHeight; // 現在のブラウザの高さ
+    if (scroll > offset - windowHeight + 150) {
+      fadeInTarget[i].classList.add('scroll-in');
+    }
+  }
+});
+</script>

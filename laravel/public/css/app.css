@@ -496,6 +496,7 @@ ul {
 .contact__wrap-text {
   line-height: 2.5;
   margin-top: 3.5rem;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
 }
 .contact__wrap-ttl {
   font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
@@ -515,6 +516,7 @@ ul {
   font-size: 16px;
   margin-right: 1rem;
   width: 220px;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
 }
 .contact__form > div {
   align-items: center;
@@ -635,11 +637,13 @@ ul {
   text-align: center;
   font-size: 1.8em;
   font-weight: bold;
-  background: #eee;
+  background-color: #fafafa;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 #wrapper #contents .guideline .state {
   width: 90%;
   margin: 0 auto;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 #wrapper #contents .guideline .state .read {
   text-align: center;
@@ -656,6 +660,7 @@ ul {
 #wrapper #contents .guideline table tr th {
   background: none;
   border: none;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 #wrapper #contents .guideline table tr td a {
   text-decoration: underline;
@@ -669,6 +674,7 @@ ul {
   font-weight: bold;
   padding: 0.3em 2em;
   margin: 0 auto 1em;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 .entry-format {
   zoom: 1;
@@ -709,6 +715,7 @@ table tr:first-child {
 .entry-format table, .entry-format th, .entry-format td {
   border-style: solid;
   border-color: #c2c2c2;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
 }
 table tr th {
   width: 20%;
@@ -728,10 +735,11 @@ table tr th {
   font-weight: 500;
   display: inline-block;
   margin: 0;
+  background-color: #fafafa;
   font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 .l-page {
-  background: #eaeaea;
+  background-color: #fafafa;
   font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 .c-lower-eyecatch__title {
@@ -883,7 +891,8 @@ h1 {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0.06em;
   color: #222;
-  font-size: 0.8125rem;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+  font-size: 16px;
   line-height: 2.15385;
   margin: 2.15385em 17.85714% 0;
   margin-top: 0;
@@ -893,9 +902,10 @@ h1 {
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0.06em;
   color: #222;
-  font-size: 0.8125rem;
   line-height: 2.15385;
   margin: 2.15385em 17.85714% 0;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+  font-size: 16px;
 }
 .c-section-expand__text_title {
   -webkit-text-size-adjust: 100%;
@@ -1046,6 +1056,7 @@ h1 {
   text-align: left;
   margin-bottom: 4.16667%;
   font-size: 1.5rem;
+  font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
 }
 .c-contents-with-image-s {
   -webkit-text-size-adjust: 100%;
@@ -1091,7 +1102,8 @@ h1 {
 .c-contents-with-image-s__item-sub-head {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
-  letter-spacing: 0.06em;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+  font-size: 16px;
   color: #222;
   font-weight: 400;
   margin-top: 30px;
@@ -1101,7 +1113,8 @@ h1 {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   letter-spacing: 0.06em;
-  font-size: 0.8125rem;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+  font-size: 16px;
   margin: 0;
   line-height: 2.15385;
   color: #666;
@@ -1127,6 +1140,27 @@ h1 {
   text-align: center;
   margin-bottom: 4.16667%;
   font-size: 1.5rem;
+}
+.fade-in {
+  opacity: 0;
+  transition-duration: 500ms;
+  transition-property: opacity, transform;
+}
+.fade-in-up {
+  transform: translate(0, 50px);
+}
+.fade-in-down {
+  transform: translate(0, -50px);
+}
+.fade-in-left {
+  transform: translate(-50px, 0);
+}
+.fade-in-right {
+  transform: translate(50px, 0);
+}
+.scroll-in {
+  opacity: 1;
+  transform: translate(0, 0);
 }
 .message__wrap {
   width: 75%;

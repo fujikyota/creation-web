@@ -9,58 +9,58 @@
         <p class="human__desc ">「〇〇〇〇」な人が集まる会社</p>
         <p class="human__text">社員について<br>どんな人がいる会社なのか</p>
     </div>
-<div class="buddy">
-    <div class="buddy__wrap">
-        <div class="buddy__img">
-            <img src="/img/saito.png" alt="icon1" class="buddy__icon">
-        </div>
-        <div class="buddy__desc">
-            <p class="buddy__name">齋藤 祐次</p>
-            <p>
-                Q.Creationのココが好きだな、働きやすいなっていうところはありますか？<br>
-                A.一生懸命で仕事に向き合う姿勢が一緒なところが好きです。<br>
-
-                Q.夢や目標はありますか?入社前と入社後で変わった場合も教えてください。<br>
-                A.取引をさせてもらったお客様全員に笑顔になって頂く事が今の目標です。<br>
-
-                Q.仕事をするにあたって、辛い事や難しく大変な事もあるとは思います。仕事で笑顔になる時はどんな時ですか？
-                A.自分で企画したプロジェクトで成功をした時です。<br>
-
-                Q.これから入社を考えている方へメッセージをお願いします。<br>
-                A.転職というのは大きなターニングポイントになりますが、Creaitonでは自分の夢を追うこと・叶える事が出来る環境だと思います。
-                　是非一緒に働きましょう。
-            </p>
-        </div>
+    <div class="human__box">
+        <ul class="human__list">
+            <li class="human__item">
+                <a href="/saito" class="interview__item">
+                <div class="interview__iconBox">
+                    <img src="/img/icon.jpeg" alt="icon1" class="human__icon">
+                    </div>
+                    <span class="interview__detail">事業統括マネージャー</span>
+                    <div class="interview__box">
+                        <span class="interview__time">入社年月日</span>
+                        <span class="interview__jname">齋藤 祐次</span>
+                        <span class="interview__ename">YUJI SAITO</span>
+                    </div>
+                    <div class="mask">
+                        <div class="caption">Creationはあなたにとってどんな会社ですか？</div>
+                    </div>
+                </a>
+            </li>
+            <li class="human__item">
+            <a href="/hirano" class="interview__item">
+            <div class="interview__iconBox">
+                    <img src="/img/icon.jpeg" alt="icon1" class="human__icon">
+                    </div>
+                    <span class="interview__detail">営業部</span>
+                    <div class="interview__box">
+                        <span class="interview__time">入社年月日</span>
+                        <span class="interview__jname">平野 洋輔</span>
+                        <span class="interview__ename">YOSUKE HIRANO</span>
+                    </div>
+                    <div class="mask">
+                        <div class="caption">Creationはあなたにとってどんな会社ですか？</div>
+                    </div>
+                </a>
+            </li>
+            <li class="human__item">
+            <a href="/saito" class="interview__item">
+                    <div class="interview__iconBox">
+                    <img src="/img/icon.jpeg" alt="icon1" class="human__icon">
+                    </div>
+                    <span class="interview__detail">肩書き</span>
+                    <div class="interview__box">
+                        <span class="interview__time">入社年月日</span>
+                        <span class="interview__jname">齋藤 祐次</span>
+                        <span class="interview__ename">YUJI SAITO</span>
+                    </div>
+                    <div class="mask">
+                        <div class="caption">Creationはあなたにとってどんな会社ですか？</div>
+                    </div>
+                </a>
+            </li>
+        </ul>
     </div>
-    <div class="buddy__wrap">
-        <div class="buddy__img">
-            <img src="/img/hirano.jpg" alt="icon1" class="buddy__icon">
-        </div>
-        <div class="buddy__desc">
-            <h2>平野</h2>
-            <p>
-            Q.Creationのココが好きだな、働きやすいなっていうところはありますか？<br>
-            A.若い会社なので、色々なアイデアを出しやすい点にあります。
-            　過去の風習を捨て、新しい事に挑戦しやすい環境を得られやすいのは、クリエイションならではの良いポイントだと思います。
-            　従業員同士の関係性に関しても、仕事の時は全員がプロに徹し、各々の仕事に立ち向かい、時には従業員全員が一つの問題に立ち向かう団結力がありますが、一歩職場を離れると、お互いのプライベートは勿論自由ですがドライかつ大人な人間関係も今時の世相にも合っていると思います。
-            　また、会社の立地も御茶ノ水という総武線・中央線沿線だという部分も高ポイントです。<br>
-
-            Q.仕事でやりがいを感じる時はどんな時ですか？<br>
-            A.様々な競合他社がいる中で、クリエイションを選んで頂き、「クリエイションを選んで良かった」とお客様に笑顔になってもらう事が一番やりがいを感じます。
-            　他に以前の自分だったらクリア出来なかったであろう問題に対応できるようになり、己の成長を実感できた時です。<br>
-
-            Q.夢や目標はありますか？
-            　入社前と入社後で変わった場合も教えてください。<br>
-            A.入社前は漠然と「楽して稼ぎたい」位にしか考えておりませんでしたが、今ではもっと色々な技術を得たい、もっと色々な人達から認められたい、もっと数字を伸ばしたい等、貪欲に目標を追いかけたいと思えるようになりました。
-            　ゆくゆくは何か一つクリエイション内で事業を立ち上げ、成功へ導けたら嬉しいですね。
-            　皆が同じ目線で見てくれる事が多い環境なので意識は本当に変わりました、笑顔が凄く増えたと自覚しています。<br>
-
-            Q.これから入社を考えている方へメッセージをお願いします。<br>
-            A.クリエイションは、各々違う環境で生きてきた人間達が一つの場所に集まり、同じ目標に向かって一致団結出来る職場だと思います。
-            　一緒に仕事をする気概があれば、きっと笑顔が増える事は間違いないです。
-            </p>
-        </div>
-    </div>
-</div>
+<div class="space-100"></div>
 
 @include('layout.footer')

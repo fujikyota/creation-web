@@ -90,7 +90,7 @@
                     <a href="/entry">entry</a>
                     <a href="/message">message</a>
                     <a href="/human">human</a>
-                    <a href="/recruit">recruit</a>
+                    <a href="/recruitMidcareer">recruit</a>
                     <a href="/common">common</a>
                 </div>
             </div>

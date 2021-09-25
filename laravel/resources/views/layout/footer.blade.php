@@ -4,7 +4,7 @@
         <a href="/work" class="nav__item">会社を知る</a>
         <a href="/human" class="nav__item">仲間を知る</a>
         <a href="/message" class="nav__item">採用担当者からあなたへ</a>
-        <a href="/recruitNewgraduates" class="nav__item">採用情報</a>
+        <a href="/recruitMidcareer" class="nav__item">採用情報</a>
     </div>
     <div class="footer__bottom">
         <a href="https://creation2016.co.jp/" class="footer__link">

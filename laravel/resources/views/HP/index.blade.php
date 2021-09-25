@@ -127,7 +127,7 @@
         <p class="human__text">Creationではでは現在、各ポジションで募集を行っています。</p>
     </div>
     <div class="recruit__wrap">
-                <a href="/recruitNewgraduates" class="recruit__left">
+                <a href="/recruitMidcareer" class="recruit__left">
                     <div class="recruit__link">募集要項</div>
                 </a>
     </div>

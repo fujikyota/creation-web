@@ -3,12 +3,12 @@
 @include('layout.header')
 
 <body>
-<div class="l-page">
 <section class="index__work">
             <div class="work__ttl"></div>
                 <h2 class="work__ttll">私たちの使命</h2>
-            <div class="space-100"></div>
 </section>
+<div class="l-page">
+
   <div class="l-page__inner">
     <div class="backgr">
       <div class="c-section-expand fade-in fade-in-left box">
@@ -30,7 +30,7 @@
           <p class="c-section-expand__text">Creationでは多様な人材が相互に尊重しあい、協力し、依頼者それぞれのニーズに合ったベスト・クオリティーのサービスを提供しています。</p>
           <div class="c-contents-with-image-s">
             <div class="c-contents-with-image-s__item">
-              <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+              <div class="c-contents-with-image-s__item-image"><img src="../img/21830a0I9A97521937_TP_V4.jpg" alt=""></div>
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">website</h3>
                 <h4 class="c-contents-with-image-s__item-sub-head">【webサイト制作】</h4>
@@ -66,7 +66,7 @@
               </div>
             </div> -->
             <div class="c-contents-with-image-s__item">
-              <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+              <div class="c-contents-with-image-s__item-image"><img src="../img/kuchikomi881_TP_V4.jpg" alt=""></div>
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">Sns marketing</h3>
                 <h4 class="c-contents-with-image-s__item-sub-head">【広告代理店】</h4>
@@ -82,20 +82,17 @@
         <div class="c-section-expand__body is-animate is-animate-fix">
           <h2 class="c-section-expand__title_1">DATAで見るCreation<br class="u-hidden-pc-l u-hidden-pc-s u-hidden-tablet"></h2>
           <p class="c-section-expand__text">各職種や年齢などをご紹介します。<br>
-          <div class="c-contents-with-image-s">
+          <div class="c-contents-with-image-s_i">
             <div class="c-contents-with-image-s__item">
-              <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+              <div class="c-contents-with-image-s__item-image"><img src="../img/5096007_l.jpg" alt=""></div>
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">組織構成(各職種の人数) </h3>
-                <h4 class="c-contents-with-image-s__item-sub-head">【スタッフ：合計595】</h4>
-                <p class="c-contents-with-image-s__item-text">programer 250、<br>
-                  desiner、<br>
-                  バックオフィス、その他 140 <br>
-                  ※海外オフィスを含む</p>
+                <h4 class="c-contents-with-image-s__item-sub-head">【スタッフ：合計90】</h4>
+                <p class="c-contents-with-image-s__item-text">・programer 50　・desiner バックオフィス、その他 40 </p>
               </div>
             </div>
             <div class="c-contents-with-image-s__item">
-            <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
+            <div class="c-contents-with-image-s__item-image"></div>
               <div class="c-contents-with-image-s__item-body">
                 <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">平均年齢</h3>
                 <h4 class="c-contents-with-image-s__item-sub-head">【スタッフの平均年齢】</h4>
@@ -103,17 +100,9 @@
               </div>
             </div>
             <div class="c-contents-with-image-s__item">
-              <div class="c-contents-with-image-s__item-image"><img src="../img/work.png" alt=""></div>
-              <div class="c-contents-with-image-s__item-body">
-                <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">年齢の分布</h3>
-                <h4 class="c-contents-with-image-s__item-sub-head">【スタッフ】</h4>
-                <p class="c-contents-with-image-s__item-text">10代 (0.00%)、20代 (39.82%)、30代 (32.55%)、40代 (17.45%)、50代 (8.73%)、60代 (1.45%)、65歳以上 (0.00%)</p>
-              </div>
-            </div>
-            <div class="c-contents-with-image-s__item">
               <div class="c-contents-with-image-s__item-image"></div>
               <div class="c-contents-with-image-s__item-body">
-                <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key"> 平均年収</h3>
+                <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">平均年収</h3>
                 <p class="c-contents-with-image-s__item-text">20〜25：350万円<br>
                   25〜30：40万円<br>
                   30〜40：800万円<br>
@@ -132,12 +121,6 @@
                 <div class="c-contents-with-image-s__item-body">
                     <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">会社名 </h3>
                     <h4 class="c-contents-with-image-s__item-sub-head">株式会社Creation (Creation Co.,Ltd)</h4>
-                </div>
-            </div>
-            <div class="c-contents-with-image-s__item">
-                <div class="c-contents-with-image-s__item-body">
-                    <h3 class="c-contents-with-image-s__item-head c-contents-with-image-s__item-head--key">会社設立 </h3>
-                    <h4 class="c-contents-with-image-s__item-sub-head">2016年6月</h4>
                 </div>
             </div>
             <div class="c-contents-with-image-s__item">

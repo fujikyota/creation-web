@@ -2,7 +2,7 @@
 <div class="nav-wrapper"><!-- ②ナビゲーションメニュー -->
         <nav class="header-nav">
           <ul class="nav-list">
-          <li class="nav-item"><a href="/">ホーム</a></li>
+          <li class="nav-item"><a href="/index">ホーム</a></li>
           <li class="nav-item"><a href="/work">会社を知る</a></li>
           <li class="nav-item"><a href="/human">仲間を知る</a></li>
           <li class="nav-item"><a href="/message">採用担当者からあなたへ</a></li>

@@ -13,13 +13,6 @@
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&amp;display=swap" rel="stylesheet">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script src="/js/script.js"></script>
-        <script>
-            $('.h-menu').on('click',function(){//.btn_triggerをクリックすると
-            $('.burger-btn').toggleClass('close');//.btn_triggerにcloseクラスを付与(ボタンのアニメーション)
-            $('.nav-wrapper').fadeToggle(500);//.nav-wrapperが0.5秒でフェードイン(メニューのフェードイン)
-            $('body').toggleClass('noscroll');//bodyにnoscrollクラスを付与(スクロールを固定)
-            });
-        </script>
     </head>
     <body>
     @yield('header')

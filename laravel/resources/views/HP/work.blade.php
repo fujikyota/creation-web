@@ -5,7 +5,7 @@
 <body>
 <section class="index__work">
             <div class="work__ttl"></div>
-                <h2 class="work__ttll">私たちの使命</h2>
+            <h2 class="work__ttll">私たちの使命</h2>
 </section>
 <div class="l-page">
 

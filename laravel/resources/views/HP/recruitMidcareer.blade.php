@@ -9,14 +9,14 @@
 <div id="wrapper">
 	<div id="contents">
 		<div class="anim section-in animated fadeIn" data-label="fadeIn">
-			<div class="recruit__wrap">
+			<!-- <div class="recruit__wrap">
 				<a href="/recruitMidcareer" class="recruit__right">
 					<div class="recruit__link">中途募集要項</div>
 				</a>
-                <!-- <a href="/recruitNewgraduates" class="recruit__left">
+                <a href="/recruitNewgraduates" class="recruit__left">
 					<div class="recruit__link">アルバイト募集要項</div>
-				</a> -->
-			</div>
+				</a>
+			</div> -->
 			<div class="space-100"></div>
 			<div class="guideline">
 				<div class="state">

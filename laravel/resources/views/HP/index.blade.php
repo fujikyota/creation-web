@@ -14,9 +14,10 @@
         <p class="hero__middle">モノに価値を、<span>時代に価値を。</span></p>
         <p class="hero__small">Creation.co.Ltd RECRUITMEN</p>
     </div>
+    <div class="scrolldown1"><span>Scroll</span></div>
 </div>
 <section class="index__work">
-    <div class="work__ttl"></div>
+    <div class="work__ttlImg"></div>
     <h2 class="mission__ttl">私たちの使命</h2>
     <div class="mission__item">
         <div class="mission__imgBox">
@@ -31,9 +32,10 @@
         </div>
     </div>
 </section>
-<div class="space-100"></div>
+<hr>
 <section class="index__human">
-<div class="friend__ttl"></div>
+    <div class="friend__ttl"></div>
+    <div class="human-inner">
     <h2 class="human__ttl">私たちの仲間</h2>
     <div class="space-50"></div>
     <div class="human__descBox">
@@ -44,7 +46,7 @@
             <li class="human__item no1">
                 <a href="/saito" class="interview__item">
                 <div class="interview__iconBox">
-                    <img src="/img/icon.jpeg" alt="icon1" class="human__icon">
+                    <img src="/img/saito.jpg" alt="icon1" class="human__icon">
                     </div>
                     <span class="interview__detail">事業統括マネージャー</span>
                     <div class="interview__box">
@@ -60,7 +62,7 @@
             <li class="human__item">
             <a href="/hirano" class="interview__item">
             <div class="interview__iconBox">
-                    <img src="/img/icon.jpeg" alt="icon1" class="human__icon">
+                    <img src="/img/hirano.jpg" alt="icon1" class="human__icon">
                     </div>
                     <span class="interview__detail">営業部</span>
                     <div class="interview__box">
@@ -76,7 +78,7 @@
             <li class="human__item no1">
             <a href="/saito" class="interview__item">
                     <div class="interview__iconBox">
-                    <img src="/img/icon.jpeg" alt="icon1" class="human__icon">
+                    <img src="/img/hello.jpg" alt="icon1" class="human__icon">
                     </div>
                     <span class="interview__detail">肩書き</span>
                     <div class="interview__box">
@@ -96,8 +98,10 @@
             <div class="more">仲間を知る</div>
         </a>
     </div>
-</section>
+    </div>
 
+</section>
+<hr>
 <section class="index__message">
 
     <div class="message__item">

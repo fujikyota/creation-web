@@ -1,4 +1,63 @@
+
 @media screen and (min-width: 768px){
+    hr{
+        display: none;
+    }
+    .scrolldown1{
+        /*描画位置※位置は適宜調整してください*/
+      position:absolute;
+      left:50%;
+      bottom:10px;
+        /*全体の高さ*/
+      height:50px;
+    }
+
+    /*Scrollテキストの描写*/
+    .scrolldown1 span{
+        /*描画位置*/
+      position: absolute;
+      left:-23px;
+      top: -29px;
+        /*テキストの形状*/
+        font-weight: 400;
+      color: #1b1b1b;
+      font-size: 1.2rem;
+      letter-spacing: 0.05em;
+      font-family: Helvetica, sans-serif;
+    }
+
+    /* 線の描写 */
+    .scrolldown1::after{
+      content: "";
+        /*描画位置*/
+      position: absolute;
+      top: 0;
+        /*線の形状*/
+      width: 2px;
+      height: 30px;
+      background: #1b1b1b;
+        /*線の動き1.4秒かけて動く。永遠にループ*/
+      animation: pathmove 1.4s ease-in-out infinite;
+      opacity:0;
+    }
+
+    /*高さ・位置・透過が変化して線が上から下に動く*/
+    @keyframes pathmove{
+      0%{
+        height:0;
+        top:0;
+        opacity: 0;
+      }
+      30%{
+        height:30px;
+        opacity: 1;
+      }
+      100%{
+        height:0;
+        top:50px;
+        opacity: 0;
+      }
+    }
     .hero{
         background: url(../img/hero.jpeg) no-repeat;
         background-size: cover;
@@ -7,7 +66,7 @@
         width: 75%;
         margin-left: auto;
         margin-bottom: 100px;
-        height: 650px;
+        min-height: 100vh;
         object-fit: cover;
         font-family: "游明朝体", "Yu Mincho", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", "MS P明朝", "MS PMincho", serif;
     }
@@ -35,6 +94,11 @@
     }
 }
 @media screen and (max-width: 767px){
+    hr{
+        border-top: 1px solid #a2e1ff;
+        width: 50%;
+        margin: 30px auto;
+    }
     .hero{
         background: url(../img/hero.jpeg) no-repeat;
         background-size: cover;
@@ -69,8 +133,8 @@
 }
 // worksection
 @media screen and (min-width: 768px){
-    .work__ttl{
-        background: url(../img/mission.jpg) no-repeat;
+    .work__ttlImg{
+        background: url(../img/mission.png) no-repeat;
         background-size: contain;
         background-position: center;
         background-blend-mode:lighten;
@@ -128,8 +192,8 @@
     .mission__imgBox{
         display: none;
     }
-    .work__ttl{
-        background: url(../img/mission.jpg) no-repeat;
+    .work__ttlImg{
+        background: url(../img/mission.png) no-repeat;
         background-size: contain;
         background-position: center;
         background-blend-mode:lighten;
@@ -176,7 +240,7 @@
     .index__human{
         width: 100%;
         margin: auto;
-        margin-bottom: 100px;
+        margin-bottom: 50px;
     }
     .mission__button{
         width: 100%;
@@ -189,8 +253,9 @@
 
 // humansection
 @media screen and (min-width: 768px){
+
     .friend__ttl{
-        background: url(../img/interview.jpg) no-repeat;
+        background: url(../img/interview.png) no-repeat;
         background-size: contain;
         background-position: center;
         background-blend-mode:lighten;
@@ -263,6 +328,7 @@
     }
     .interview__iconBox{
         width: 100%;
+        object-fit: cover;
     }
     .human__link{
         width: 25%;
@@ -293,7 +359,7 @@
         bottom: 0;
         left: 0;
         right: 0;
-        background: rgba(248, 232, 0, 0.522);
+        background: rgba(114, 235, 248, 0.522);
         opacity: 0;
         color: #222;
         display: flex;
@@ -320,8 +386,8 @@
         height: auto;
     }
     .interview__detail{
-        background: #ffd54d;
-        color: #333;
+        background: #79c5dc;
+        color: #fff;
         display: inline-block;
         letter-spacing: .05em;
         -webkit-transform: translateY(-50%);
@@ -354,7 +420,7 @@
     .interview__ename{
         font-size: 12px;
         display: inline-block;
-        color: #ffc400;
+        color: #79c5dc;
     }
     .human__moreBox{
         width: 100%;
@@ -366,8 +432,12 @@
     }
 }
 @media screen and (max-width: 767px){
+    .scrolldown1{
+        display: none;
+    }
+
     .friend__ttl{
-        background: url(../img/interview.jpg) no-repeat;
+        background: url(../img/interview.png) no-repeat;
         background-size: contain;
         background-position: center;
         background-blend-mode:lighten;
@@ -471,7 +541,7 @@
         bottom: 0;
         left: 0;
         right: 0;
-        background: rgba(248, 232, 0, 0.522);
+        background: rgba(114, 235, 248, 0.522);
         opacity: 0;
         color: #222;
         display: flex;
@@ -498,8 +568,8 @@
         height: auto;
     }
     .interview__detail{
-        background: #ffd54d;
-        color: #333;
+        background: #79c5dc;
+        color: #fff;
         display: inline-block;
         letter-spacing: .05em;
         -webkit-transform: translateY(-50%);
@@ -530,11 +600,11 @@
     .interview__ename{
         font-size: 12px;
         display: inline-block;
-        color: #ffc400;
+        color: #79c5dc;
     }
     .human__moreBox{
         width: 100%;
-        margin-top: 100px;
+        margin-top: 50px;
         text-align: center;
     }
     .no1{
@@ -548,7 +618,7 @@
         margin: auto;
     }
     .message__ttlimg{
-        background: url(../img/message.jpg) no-repeat;
+        background: url(../img/message.png) no-repeat;
         background-size: contain;
         background-position: center;
         background-blend-mode:lighten;
@@ -606,7 +676,7 @@
         margin: auto;
     }
     .message__ttlimg{
-        background: url(../img/message.jpg) no-repeat;
+        background: url(../img/message.png) no-repeat;
         background-size: contain;
         background-position: center;
         background-blend-mode:lighten;
@@ -659,7 +729,7 @@
 // recruitsection
 @media screen and (min-width: 768px){
     .recruit__ttlimg{
-        background: url(../img/recruit.jpg) no-repeat;
+        background: url(../img/recruit.png) no-repeat;
         background-size: contain;
         background-position: center;
         background-blend-mode:lighten;
@@ -693,7 +763,7 @@
 }
 @media screen and (max-width: 767px){
     .recruit__ttlimg{
-        background: url(../img/recruit.jpg) no-repeat;
+        background: url(../img/recruit.png) no-repeat;
         background-size: contain;
         background-position: center;
         background-blend-mode:lighten;
@@ -716,12 +786,12 @@
         text-align: center;
         text-decoration: none;
         color: #fff;
-        background: linear-gradient(to right, #79c5dc, #cecfb6);
+        background: #ffd54d;
     }
     .recruit__left:hover,.recruit__right:hover{
         opacity: 0.8;
     }
     .recruit__link{
-        background: linear-gradient(to right, #79c5dc, #cecfb6);
+        background: #79c5dc;
     }
 }

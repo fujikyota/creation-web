@@ -3,7 +3,7 @@
 @include('layout.header')
 
 <div class="member__header">
-    <div class="h__bg"></div>
+    <div class="h__bg__saito"></div>
     <div class="catch__text">あなたにとってCreationとは？</div>
     <div class="member__caption">
         <span class="member__time">入社時期</span>
@@ -16,7 +16,7 @@
 <div class="member__qa">
     <div class="interview__body1">
         <div class="photo1">
-            <img src="/img/portrait.jpg" alt="" class="qa__photo1">
+            <img src="/img/saitomiddle.jpg" alt="" class="qa__photo1">
         </div>
         <div class="interview1">
             <p class="question">Creationのココが好きだな、働きやすいなっていうところはありますか？</p>
@@ -39,7 +39,7 @@
     </div>
     <div class="interview__body3">
     <div class="photo2">
-            <img src="/img/portrait2.jpeg" alt="" class="qa__photo2">
+            <img src="/img/saitobottom.jpg" alt="" class="qa__photo2">
         </div>
         <div class="interview3">
         <p class="question">夢や目標はありますか？入社前と入社後で変わった場合も教えてください。</p>
@@ -49,7 +49,7 @@
     </div>
     <div class="interview__body4">
         <div class="photo2">
-        <img src="/img/portrait.jpeg" alt="" class="qa__photo3">
+        <img src="/img/saitohead.jpg" alt="" class="qa__photo3">
         </div>
         <div class="interview4">
         <p class="question_last">

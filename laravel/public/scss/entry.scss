@@ -130,3 +130,62 @@
     transition: .3s;
     width: 400px;
 }
+@media screen and (max-width: 767px){
+    .contact__wrap {
+    margin-top: 0;
+    }
+    .inner {
+        margin: auto;
+        width: 86%;
+    }
+    .contact__form > div {
+        padding: 1rem 0;
+    }
+    .contact__form > div label {
+        font-size: 14px;
+        width: 42%;
+    }
+    .contact__form input {
+        height: auto;
+        margin-left: auto;
+        padding: .5rem 1rem;
+        width: 43%;
+    }
+    .contact__wrap-ttl {
+        font-size: 16px;
+    }
+    .contact__wrap-text {
+        font-size: 12px;
+        margin-top: 1.5rem;
+    }
+    .contact__form {
+        margin-top: 2rem;
+    }
+    .contact__form input {
+        height: auto;
+        margin-left: auto;
+        padding: .5rem 1rem;
+        width: 43%;
+    }
+    .btn__submit {
+        margin: 3rem auto 0;
+    }
+    .btn__submit input {
+        font-size: 16px;
+        height: 55px;
+        width: 55%;
+    }
+    .mwform-tel-field {
+        margin-top: 1rem;
+        width: 20%;
+    }
+    .mwform-tel-field input {
+        height: auto;
+        margin-left: auto;
+        padding: .5rem 1rem;
+    }
+    .mwform-tel-field input[type="text"], .mwform-zip-field input[type="text"] {
+        display: inline-block;
+    }
+
+}
